@@ -218,6 +218,16 @@ section[id] {
   color: var(--ink);
 }
 
+.kind {
+  display: block;
+  margin: 2px 0 3px;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+
 .inline {
   width: 16px;
   height: 16px;
